@@ -5,7 +5,7 @@
 ![Flexbox](https://img.shields.io/badge/Practice-Flexbox-brightgreen)
 ![Contributions](https://camo.githubusercontent.com/5ae751d6f1db3da3db0a15924a4165f95ab9462c5602cab2aedc7932ff565451/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e747269627574696f6e732d77656c636f6d652d626c756576696f6c6574)
 
-![WEBSITE](C:\Users\Dell XPS 9550\Desktop\Back-Roads-Company\BRC.png)
+![WEBSITE!](BRC.png)
 
 Back Roads Company is a website purposely created for study reasons. Whit the use of HTML5, CSS3, and a bit of JavaScript, this responsive website is:
 
